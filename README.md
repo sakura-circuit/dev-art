@@ -2,6 +2,14 @@
 
 A collection of digital art designs created with [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
 
+## Art design 6
+
+<a href="./art designs/art design 6/EL Anime.png">
+  <img src="./art designs/art design 6/EL Anime.png" width="840" alt="Art design 6">
+</a>
+
+---
+
 ## Art design 5
 
 <a href="./art designs/art design 5/VC Gekko.png">
