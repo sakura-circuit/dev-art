@@ -1,2 +1,5 @@
 # Ignore GIMP files anywhere in the repository
 *.xcf
+
+# Ignore Documentation folder
+/Documentation/
