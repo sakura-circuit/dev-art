@@ -4,11 +4,11 @@ A collection of digital art designs created with [GIMP](https://www.gimp.org/) f
 
 ## Art design 7 - Test of colors and lights on case of desktop computer
 
-<a href="./art designs/art design 7/EL Anime.png">
+<a href="./art designs/art design 7/Light and Color Tests WBRB.png">
   <img src="./art designs/art design 7/Light and Color Tests WBRB.png" width="840" alt="Art design 7">
 </a>
 
-<a href="./art designs/art design 7/EL Anime.png">
+<a href="./art designs/art design 7/Light and Color Tests WGRB.png">
   <img src="./art designs/art design 7/Light and Color Tests WGRB.png" width="840" alt="Art design 7">
 </a>
 
