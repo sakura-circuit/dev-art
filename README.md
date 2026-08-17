@@ -2,16 +2,16 @@
 
 A collection of digital art designs created with [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
 
-## Art design 7 - Test of colors and lights on case of desktop computer
+## Art design 8 - Test of CMYK colors and lights for transparent panels of case of desktop computer
 
-<a href="./art designs/art design 7/Light and Color Tests WBRB.png">
-  <img src="./art designs/art design 7/Light and Color Tests WBRB.png" width="840" alt="Art design 7">
+<a href="./art designs/art design 8/CMYK Light and Color Test.png">
+  <img src="./art designs/art design 8/CMYK Light and Color Test.png" width="640" alt="Art design 8">
 </a>
 
-##
+## Art design 7 - Test of RGB colors and lights for transparent panels of case of desktop computer
 
-<a href="./art designs/art design 7/Light and Color Tests WGRB.png">
-  <img src="./art designs/art design 7/Light and Color Tests WGRB.png" width="840" alt="Art design 7">
+<a href="./art designs/art design 7/RGB Light and Color Test.png">
+  <img src="./art designs/art design 7/RGB Light and Color Test.png" width="640" alt="Art design 7">
 </a>
 
 ## Art design 6 - Design for case of desktop computer, box side and box front
