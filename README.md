@@ -2,6 +2,12 @@
 
 A collection of digital art designs created with [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
 
+## Art design 9 - Comic design
+
+<a href="./art designs/art design 9/Comic art.png">
+  <img src="./art designs/art design 9/Comic art.png" width="640" alt="Art design 9">
+</a>
+
 ## Art design 8 - Test of CMYK colors and lights for transparent panels of case of desktop computer
 
 <a href="./art designs/art design 8/CMYK Light and Color Test.png">

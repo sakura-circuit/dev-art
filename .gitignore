@@ -1,3 +1,6 @@
+# Ignore Photoshop files anywhere in the repository
+*.psd
+
 # Ignore GIMP files anywhere in the repository
 *.xcf
 
