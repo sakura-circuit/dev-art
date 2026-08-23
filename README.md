@@ -4,8 +4,8 @@ A collection of digital art designs created with [Photoshop](https://www.adobe.c
 
 ## Art design 10 - Comic art. Design for case of desktop computer, box side and box front
 
-<a href="./art designs/art design 10/Comic art.png">
-  <img src="./art designs/art design 10/Comic art.png" width="840" alt="Art design 10">
+<a href="./art designs/art design 10/comic art.png">
+  <img src="./art designs/art design 10/comic art.png" width="840" alt="Art design 10">
 </a>
 
 ## Art design 9 - Comic art. Design for case of desktop computer, box side and box front
