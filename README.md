@@ -1,23 +1,29 @@
 # Digital Art Designs
 
-A collection of digital art designs created with [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
+A collection of digital art designs created with [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
 
-## Art design 9 - Comic design
+## Art design 10 - Comic art. Design for case of desktop computer, box side and box front
+
+<a href="./art designs/art design 10/Comic art.png">
+  <img src="./art designs/art design 10/Comic art.png" width="840" alt="Art design 10">
+</a>
+
+## Art design 9 - Comic art. Design for case of desktop computer, box side and box front
 
 <a href="./art designs/art design 9/Comic art.png">
-  <img src="./art designs/art design 9/Comic art.png" width="640" alt="Art design 9">
+  <img src="./art designs/art design 9/Comic art.png" width="840" alt="Art design 9">
 </a>
 
 ## Art design 8 - Test of CMYK colors and lights for transparent panels of case of desktop computer
 
 <a href="./art designs/art design 8/CMYK Light and Color Test.png">
-  <img src="./art designs/art design 8/CMYK Light and Color Test.png" width="640" alt="Art design 8">
+  <img src="./art designs/art design 8/CMYK Light and Color Test.png" width="840" alt="Art design 8">
 </a>
 
 ## Art design 7 - Test of RGB colors and lights for transparent panels of case of desktop computer
 
 <a href="./art designs/art design 7/RGB Light and Color Test.png">
-  <img src="./art designs/art design 7/RGB Light and Color Test.png" width="640" alt="Art design 7">
+  <img src="./art designs/art design 7/RGB Light and Color Test.png" width="840" alt="Art design 7">
 </a>
 
 ## Art design 6 - Design for case of desktop computer, box side and box front
