@@ -2,6 +2,12 @@
 
 A collection of digital art designs created with [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
 
+## Art design 12 - Street paint art. Design for case of desktop computer, box side and box front
+
+<a href="./art designs/art design 12/Paint.png">
+  <img src="./art designs/art design 12/Paint.png" width="840" alt="Art design 12">
+</a>
+
 ## Art design 11 - Metal art. Design for case of desktop computer, box side and box front
 
 <a href="./art designs/art design 11/Metal.png">
