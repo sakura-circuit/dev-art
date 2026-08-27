@@ -2,6 +2,12 @@
 
 A collection of digital art designs created with [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
 
+## Art design 16 - Abstract architecture. Design for transparent case of desktop computer, box side and box front
+
+<a href="./art designs/art design 16/abstract arch.png">
+  <img src="./art designs/art design 16/abstract arch.png" width="840" alt="Art design 16">
+</a>
+
 ## Art design 15 - Coffee shop art. Design for transparent case of desktop computer, box side and box front
 
 <a href="./art designs/art design 15/coffee shop.png">
