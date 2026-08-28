@@ -1,6 +1,12 @@
 # Digital Art Designs
 
-A collection of digital art designs created with [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/) for laptops, desktops, and mobile devices.
+A collection of digital art designs created with software / [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/) / for laptop devices, desktop devices, and mobile devices.
+
+## Art design 17 - Androids art design. Design for transparent case of desktop computer, box side and box front
+
+<a href="./art designs/art design 17/androids.png">
+  <img src="./art designs/art design 17/androids.png" width="840" alt="Art design 17">
+</a>
 
 ## Art design 16 - Abstract architecture. Design for transparent case of desktop computer, box side and box front
 
