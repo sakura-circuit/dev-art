@@ -2,6 +2,12 @@
 
 A collection of digital art designs created with software / [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/) / for laptop devices, desktop devices, and mobile devices.
 
+## Art design 18 - Fairytale art design. Design for transparent case of desktop computer, box side and box front
+
+<a href="./art designs/art design 18/Fairytale.png">
+  <img src="./art designs/art design 18/Fairytale.png" width="840" alt="Art design 18">
+</a>
+
 ## Art design 17 - Androids art design. Design for transparent case of desktop computer, box side and box front
 
 <a href="./art designs/art design 17/androids.png">
