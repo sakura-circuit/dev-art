@@ -4,5 +4,8 @@
 # Ignore GIMP files anywhere in the repository
 *.xcf
 
+# Ignore Krita files anywhere in the repository
+*.kra
+
 # Ignore Documentation folder
 /Documentation/

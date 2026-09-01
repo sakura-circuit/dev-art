@@ -2,6 +2,12 @@
 
 A collection of digital art designs created with software: [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/). These art designs are printed on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices.
 
+## Anime art design
+
+<a href="./art designs/art design 19/anime.png">
+  <img src="./art designs/art design 19/anime.png" width="840" alt="Art design 19">
+</a>
+
 ## Fairytale art design
 
 <a href="./art designs/art design 18/Fairytale.png">
