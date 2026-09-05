@@ -1,6 +1,12 @@
 # Digital Art Designs
 
-A collection of digital art designs created with software: [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/). These art designs are printed on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices.
+A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/).
+
+## Fashion art design
+
+<a href="./art designs/art design 20/fashion.png">
+  <img src="./art designs/art design 20/fashion.png" width="840" alt="Art design 20">
+</a>
 
 ## Anime art design
 
