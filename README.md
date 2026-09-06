@@ -1,26 +1,32 @@
-# Digital Art Designs
+# dev-art
 
 A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/).
 
-## Fashion art design
+## City art
+
+<a href="./art designs/art design 21/city.png">
+  <img src="./art designs/art design 21/city.png" width="840" alt="Art design 21">
+</a>
+
+## Fashion art
 
 <a href="./art designs/art design 20/fashion.png">
   <img src="./art designs/art design 20/fashion.png" width="840" alt="Art design 20">
 </a>
 
-## Anime art design
+## Anime art
 
 <a href="./art designs/art design 19/anime.png">
   <img src="./art designs/art design 19/anime.png" width="840" alt="Art design 19">
 </a>
 
-## Fairytale art design
+## Fairytale art
 
 <a href="./art designs/art design 18/Fairytale.png">
   <img src="./art designs/art design 18/Fairytale.png" width="840" alt="Art design 18">
 </a>
 
-## Androids art design
+## Androids art
 
 <a href="./art designs/art design 17/androids.png">
   <img src="./art designs/art design 17/androids.png" width="840" alt="Art design 17">
@@ -38,7 +44,7 @@ A collection of art designs created for Company that prints these art designs on
   <img src="./art designs/art design 15/coffee shop.png" width="840" alt="Art design 15">
 </a>
 
-## Abstract design
+## Abstract art
 
 <a href="./art designs/art design 14/abstract design.png">
   <img src="./art designs/art design 14/abstract design.png" width="840" alt="Art design 14">
@@ -86,37 +92,37 @@ A collection of art designs created for Company that prints these art designs on
   <img src="./art designs/art design 7/RGB Light and Color Test.png" width="840" alt="Art design 7">
 </a>
 
-## Mutant art design
+## Mutant art
 
 <a href="./art designs/art design 6/EL Anime.png">
   <img src="./art designs/art design 6/EL Anime.png" width="840" alt="Art design 6">
 </a>
 
-## Art design from game Valorant
+## Art from game Valorant
 
 <a href="./art designs/art design 5/VC Gekko.png">
   <img src="./art designs/art design 5/VC Gekko.png" width="840" alt="Art design 5">
 </a>
 
-## Art design from game Valorant
+## Art from game Valorant
 
 <a href="./art designs/art design 4/VC Deadlock.png">
   <img src="./art designs/art design 4/VC Deadlock.png" width="840" alt="Art design 4">
 </a>
 
-## Art design from game Valorant
+## Art from game Valorant
 
 <a href="./art designs/art design 3/VC Cypher.png">
   <img src="./art designs/art design 3/VC Cypher.png" width="840" alt="Art design 3">
 </a>
 
-## Art design from game Valorant
+## Art from game Valorant
 
 <a href="./art designs/art design 2/VC Brimstone.png">
   <img src="./art designs/art design 2/VC Brimstone.png" width="840" alt="Art design 2">
 </a>
 
-## Art design from game Valorant
+## Art from game Valorant
 
 <a href="./art designs/art design 1/VC Breach.png">
   <img src="./art designs/art design 1/VC Breach.png" width="840" alt="Art design 1">
