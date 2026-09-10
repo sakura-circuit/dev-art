@@ -1,6 +1,24 @@
 # dev-art
 
-A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org/), [Krita](https://krita.org/en/).
+A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Krita](https://krita.org/en/).
+
+## Animal art
+
+<a href="./art designs/art design 25/animals.png">
+  <img src="./art designs/art design 25/animals.png" width="840" alt="Art design 25">
+</a>
+
+## Graffiti art
+
+<a href="./art designs/art design 24/graffiti.png">
+  <img src="./art designs/art design 24/graffiti.png" width="840" alt="Art design 24">
+</a>
+
+## Comic art
+
+<a href="./art designs/art design 23/skull.png">
+  <img src="./art designs/art design 23/skull.png" width="840" alt="Art design 23">
+</a>
 
 ## Abstract art
 
