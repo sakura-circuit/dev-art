@@ -4,150 +4,100 @@ A collection of art designs created for Company that prints these art designs on
 
 ## Animal art
 
-<a href="./art designs/art design 25/animals.png">
-  <img src="./art designs/art design 25/animals.png" width="840" alt="Art design 25">
-</a>
+<img src="./art designs/art design 25/animals.png" width="840" alt="Art design 25">
 
 ## Graffiti art
 
-<a href="./art designs/art design 24/graffiti.png">
-  <img src="./art designs/art design 24/graffiti.png" width="840" alt="Art design 24">
-</a>
+<img src="./art designs/art design 24/graffiti.png" width="840" alt="Art design 24">
 
 ## Comic art
 
-<a href="./art designs/art design 23/skull.png">
-  <img src="./art designs/art design 23/skull.png" width="840" alt="Art design 23">
-</a>
+<img src="./art designs/art design 23/skull.png" width="840" alt="Art design 23">
 
 ## Abstract art
 
-<a href="./art designs/art design 22/abstract.png">
-  <img src="./art designs/art design 22/abstract.png" width="840" alt="Art design 22">
-</a>
+<img src="./art designs/art design 22/abstract.png" width="840" alt="Art design 22">
 
 ## City art
 
-<a href="./art designs/art design 21/city.png">
-  <img src="./art designs/art design 21/city.png" width="840" alt="Art design 21">
-</a>
+<img src="./art designs/art design 21/city.png" width="840" alt="Art design 21">
 
 ## Fashion art
 
-<a href="./art designs/art design 20/fashion.png">
-  <img src="./art designs/art design 20/fashion.png" width="840" alt="Art design 20">
-</a>
+<img src="./art designs/art design 20/fashion.png" width="840" alt="Art design 20">
 
 ## Anime art
 
-<a href="./art designs/art design 19/anime.png">
-  <img src="./art designs/art design 19/anime.png" width="840" alt="Art design 19">
-</a>
+<img src="./art designs/art design 19/anime.png" width="840" alt="Art design 19">
 
 ## Fairytale art
 
-<a href="./art designs/art design 18/Fairytale.png">
-  <img src="./art designs/art design 18/Fairytale.png" width="840" alt="Art design 18">
-</a>
+<img src="./art designs/art design 18/Fairytale.png" width="840" alt="Art design 18">
 
 ## Androids art
 
-<a href="./art designs/art design 17/androids.png">
-  <img src="./art designs/art design 17/androids.png" width="840" alt="Art design 17">
-</a>
+<img src="./art designs/art design 17/androids.png" width="840" alt="Art design 17">
 
 ## Abstract architecture
 
-<a href="./art designs/art design 16/abstract arch.png">
-  <img src="./art designs/art design 16/abstract arch.png" width="840" alt="Art design 16">
-</a>
+<img src="./art designs/art design 16/abstract arch.png" width="840" alt="Art design 16">
 
 ## Coffee shop art
 
-<a href="./art designs/art design 15/coffee shop.png">
-  <img src="./art designs/art design 15/coffee shop.png" width="840" alt="Art design 15">
-</a>
+<img src="./art designs/art design 15/coffee shop.png" width="840" alt="Art design 15">
 
 ## Abstract art
 
-<a href="./art designs/art design 14/abstract design.png">
-  <img src="./art designs/art design 14/abstract design.png" width="840" alt="Art design 14">
-</a>
+<img src="./art designs/art design 14/abstract design.png" width="840" alt="Art design 14">
 
 ## Summer vibe art
 
-<a href="./art designs/art design 13/summer vibe.png">
-  <img src="./art designs/art design 13/summer vibe.png" width="840" alt="Art design 13">
-</a>
+<img src="./art designs/art design 13/summer vibe.png" width="840" alt="Art design 13">
 
 ## Street paint art
 
-<a href="./art designs/art design 12/Paint.png">
-  <img src="./art designs/art design 12/Paint.png" width="840" alt="Art design 12">
-</a>
+<img src="./art designs/art design 12/Paint.png" width="840" alt="Art design 12">
 
 ## Metal art
 
-<a href="./art designs/art design 11/Metal.png">
-  <img src="./art designs/art design 11/Metal.png" width="840" alt="Art design 11">
-</a>
+<img src="./art designs/art design 11/Metal.png" width="840" alt="Art design 11">
 
 ## Comic art
 
-<a href="./art designs/art design 10/comic art.png">
-  <img src="./art designs/art design 10/comic art.png" width="840" alt="Art design 10">
-</a>
+<img src="./art designs/art design 10/comic art.png" width="840" alt="Art design 10">
 
 ## Comic art
 
-<a href="./art designs/art design 9/Comic art.png">
-  <img src="./art designs/art design 9/Comic art.png" width="840" alt="Art design 9">
-</a>
+<img src="./art designs/art design 9/Comic art.png" width="840" alt="Art design 9">
 
 ## Test of CMYK colors on lights through transparent panels of transparent case of desktop computer
 
-<a href="./art designs/art design 8/CMYK Light and Color Test.png">
-  <img src="./art designs/art design 8/CMYK Light and Color Test.png" width="840" alt="Art design 8">
-</a>
+<img src="./art designs/art design 8/CMYK Light and Color Test.png" width="840" alt="Art design 8">
 
 ## Test of RGB colors on lights through transparent panels of transparent case of desktop computer
 
-<a href="./art designs/art design 7/RGB Light and Color Test.png">
-  <img src="./art designs/art design 7/RGB Light and Color Test.png" width="840" alt="Art design 7">
-</a>
+<img src="./art designs/art design 7/RGB Light and Color Test.png" width="840" alt="Art design 7">
 
 ## Mutant art
 
-<a href="./art designs/art design 6/EL Anime.png">
-  <img src="./art designs/art design 6/EL Anime.png" width="840" alt="Art design 6">
-</a>
+<img src="./art designs/art design 6/EL Anime.png" width="840" alt="Art design 6">
 
 ## Art from game Valorant
 
-<a href="./art designs/art design 5/VC Gekko.png">
-  <img src="./art designs/art design 5/VC Gekko.png" width="840" alt="Art design 5">
-</a>
+<img src="./art designs/art design 5/VC Gekko.png" width="840" alt="Art design 5">
 
 ## Art from game Valorant
 
-<a href="./art designs/art design 4/VC Deadlock.png">
-  <img src="./art designs/art design 4/VC Deadlock.png" width="840" alt="Art design 4">
-</a>
+<img src="./art designs/art design 4/VC Deadlock.png" width="840" alt="Art design 4">
 
 ## Art from game Valorant
 
-<a href="./art designs/art design 3/VC Cypher.png">
-  <img src="./art designs/art design 3/VC Cypher.png" width="840" alt="Art design 3">
-</a>
+<img src="./art designs/art design 3/VC Cypher.png" width="840" alt="Art design 3">
 
 ## Art from game Valorant
 
-<a href="./art designs/art design 2/VC Brimstone.png">
-  <img src="./art designs/art design 2/VC Brimstone.png" width="840" alt="Art design 2">
-</a>
+<img src="./art designs/art design 2/VC Brimstone.png" width="840" alt="Art design 2">
 
 ## Art from game Valorant
 
-<a href="./art designs/art design 1/VC Breach.png">
-  <img src="./art designs/art design 1/VC Breach.png" width="840" alt="Art design 1">
-</a>
+<img src="./art designs/art design 1/VC Breach.png" width="840" alt="Art design 1">
