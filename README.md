@@ -2,6 +2,18 @@
 
 A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Krita](https://krita.org/en/).
 
+## Magazine art
+
+<img src="./art designs/art design 28/magazine.png" width="840" alt="Art design 28">
+
+## Architecture art
+
+<img src="./art designs/art design 27/architecture.png" width="840" alt="Art design 27">
+
+## Comic art
+
+<img src="./art designs/art design 26/comic.png" width="840" alt="Art design 26">
+
 ## Animal art
 
 <img src="./art designs/art design 25/animals.png" width="840" alt="Art design 25">
