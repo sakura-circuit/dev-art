@@ -1,6 +1,22 @@
 # dev-art
 
-A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Krita](https://krita.org/en/).
+A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html).
+
+## PsychoHazard
+
+<img src="./art designs/art design 32/psychohazard.png" width="840" alt="Art design 32">
+
+## Fly
+
+<img src="./art designs/art design 31/fly.png" width="840" alt="Art design 31">
+
+## Nightrider
+
+<img src="./art designs/art design 30/nightrider.png" width="840" alt="Art design 30">
+
+## Poster art
+
+<img src="./art designs/art design 29/poster.png" width="840" alt="Art design 29">
 
 ## Magazine art
 
