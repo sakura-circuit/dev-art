@@ -1,6 +1,14 @@
 # dev-art
 
-A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html).
+A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/).
+
+## Repeat
+
+<img src="./art designs/art design 34/repeat.png" width="840" alt="Art design 34">
+
+## Pool
+
+<img src="./art designs/art design 33/pool.png" width="840" alt="Art design 33">
 
 ## PsychoHazard
 
