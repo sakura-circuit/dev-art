@@ -2,6 +2,22 @@
 
 A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/).
 
+## Abstract
+
+<img src="./art designs/art design 42/abstract.png" width="840" alt="Art design 42">
+
+## Sky
+
+<img src="./art designs/art design 41/sky.png" width="840" alt="Art design 41">
+
+## Abstract
+
+<img src="./art designs/art design 40/abstract.png" width="840" alt="Art design 40">
+
+## Abstract
+
+<img src="./art designs/art design 39/abstract.png" width="840" alt="Art design 39">
+
 ## Doubting
 
 <img src="./art designs/art design 38/doubting.png" width="840" alt="Art design 38">
