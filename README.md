@@ -1,6 +1,24 @@
 # dev-art
 
-A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface. Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/).
+A collection of art designs created for Company that prints these art designs on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface.
+
+Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
+
+## Doors
+
+<img src="./art designs/art design 46/doors.png" width="840" alt="Art design 46">
+
+## Teeth
+
+<img src="./art designs/art design 45/teeth.png" width="840" alt="Art design 45">
+
+## Abstract
+
+<img src="./art designs/art design 44/abstract.png" width="840" alt="Art design 44">
+
+## Mirror
+
+<img src="./art designs/art design 43/mirror.png" width="840" alt="Art design 43">
 
 ## Abstract
 

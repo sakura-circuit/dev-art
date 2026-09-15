@@ -1,8 +1,14 @@
 # Ignore Photoshop files anywhere in the repository
 *.psd
+*.psd~
 
 # Ignore GIMP files anywhere in the repository
 *.xcf
+*.xcf~
+
+# Ignore Krita files anywhere in the repository
+*.kra
+*.kra~
 
 # Ignore Documentation folder
 /Documentation/
